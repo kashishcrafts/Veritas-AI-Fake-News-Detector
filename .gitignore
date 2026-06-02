@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+results/
+logs/
+saved_model/
+*.pycgit branch -M main
